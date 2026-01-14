@@ -102,7 +102,6 @@ KartNumarası|Ay|Yıl|CVV
 * BIN analizi
 * Simülasyon sonucu
 
-📸 *Buraya tek kart check ekran görüntüsü eklenebilir*
 
 ---
 
@@ -112,7 +111,6 @@ KartNumarası|Ay|Yıl|CVV
 * Toplam, onaylanan, reddedilen ve hatalı kart sayıları gösterilir
 * Satır satır detaylı çıktı verir
 
-📸 *Buraya dosyadan check ekran görüntüsü eklenebilir*
 
 ---
 
