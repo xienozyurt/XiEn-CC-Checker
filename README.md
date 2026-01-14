@@ -127,7 +127,6 @@ KartNumarası|Ay|Yıl|CVV
 * **Luhn algoritması** ile kart doğrulama
 * **BIN kontrolü** (yerel JSON + API fallback)
 * **Log maskeleme sistemi** (kart numarası gizleme)
-* **Test modu** (gerçek check yapılmaz)
 * **Detaylı loglama** (`log.txt`)
 * **Hata toleranslı yapı**
 * **Renkli terminal arayüzü**
